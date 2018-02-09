@@ -1,0 +1,9 @@
+Building MCCoin
+
+See doc/readme-qt.rst for instructions on building MCCoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MCCoin.
+
+See doc/build-*.txt for instructions on building MCCoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of MCCoin.
